@@ -1,0 +1,9 @@
+.aside {
+    grid-area: aside;
+    background-color: rgb(70, 141, 141);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    height: 100rem;
+  }
+  
